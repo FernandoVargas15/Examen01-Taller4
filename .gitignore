@@ -1,5 +1,6 @@
 # Entornos virtuales
-pweb/
+include/
+lib/
 venv/
 env/
 
