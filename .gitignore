@@ -3,6 +3,7 @@ include/
 lib/
 venv/
 env/
+bin/
 
 # Python
 __pycache__/
